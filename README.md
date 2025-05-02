@@ -8,7 +8,7 @@ This project shows how to speed up and secure a static website hosted on S3 usin
 - HTML/CSS
 
 ## 🚀 Live Site (via CloudFront)
-🔗 [Visit Site](https://your-cloudfront-url.cloudfront.net)
+🔗 [Visit Site](https://davm4eq005r87.cloudfront.net/)
 
 ## 📸 Screenshots
 
