@@ -15,4 +15,4 @@
 ## 3. Wait for deployment (approx. 5–10 mins)
 
 ## 4. Test site at CloudFront domain
-- Format: `https://d123example123.cloudfront.net`
+- Format: `https://davm4eq005r87.cloudfront.net/
